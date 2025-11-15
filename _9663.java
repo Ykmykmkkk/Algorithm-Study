@@ -1,12 +1,7 @@
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.Inet4Address;
-import java.nio.Buffer;
-import java.util.*;
-
-// 투 포인터 문제
-public class Main {
+import java.util.Scanner;
+// n queen
+public class _9663 {
     public static int[] ar;
     public static int n;
     public static int cnt;
