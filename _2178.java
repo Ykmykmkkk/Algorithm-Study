@@ -1,11 +1,11 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.*;
+import java.util.ArrayDeque;
+import java.util.Queue;
+import java.util.StringTokenizer;
 
-// 투 포인터 문제
-public class Main {
-
+public class _2178 {
     public static int N;
     public static int M;
     public static int[][] maze;
@@ -49,5 +49,4 @@ public class Main {
             }
         }
     }
-
 }
